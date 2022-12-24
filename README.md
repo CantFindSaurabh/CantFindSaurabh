@@ -21,5 +21,4 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 <p align="left">
 <a href="https://linkedin.com/in/arora-saurabh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arora-saurabh01" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/strangeevil0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="strangeevil0" height="30" width="40" /></a>
 </p>
