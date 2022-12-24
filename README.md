@@ -4,8 +4,6 @@
 
 - 📫 You can reach me <a href="mailto:saurabh.arora.9106@gmail.com">**here**</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/15LA1kP9prsuQFoGlrnVuVyw7_CeL93_p/view?usp=sharing" target="_blank">**here**</a>
-
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
 <a href= https://github.com/saurabh-arora01?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
